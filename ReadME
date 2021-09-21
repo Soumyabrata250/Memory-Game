@@ -1,0 +1,2 @@
+This a memory game which has been created using JavaScript, HTML and CSS. The main objective of the game is to ask the user to click on two cards from the set of cards given. 
+If the selected cards are identical, then the cards are removed from the set. If not, they are returned to the set in the original unflipped position. 
